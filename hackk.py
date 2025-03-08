@@ -7,7 +7,7 @@ import time
 from math import radians, sin, cos, sqrt, atan2
 
 # 🔑 Replace with your Google Maps API key and Gemini API key
-GOOGLE_MAPS_API_KEY = "AlzaSy9K80VZUUa_5jVNVv14LLLGv4RCZa-mJqk"
+GOOGLE_MAPS_API_KEY = "AlzaSyUCu-7D3inUxzGfPYj5cH0-DtoQMwUfkxh"
 GEMINI_API_KEY = "AIzaSyA2h44PnhvnR9qrgxL7le1Kn6Yc4BxLDgI"  # Replace with your Gemini API key
 
 # 📍 Airport location
